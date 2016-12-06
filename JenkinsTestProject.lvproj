@@ -14,6 +14,7 @@
 		<Item Name="programmaticbuild2.vi" Type="VI" URL="../programmaticbuild2.vi"/>
 		<Item Name="TestClass.lvclass" Type="LVClass" URL="../TestClass.lvclass"/>
 		<Item Name="Write Std Out with Redirection.vi" Type="VI" URL="../Write Std Out with Redirection.vi"/>
+		<Item Name="writeTest.vi" Type="VI" URL="../writeTest.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AB_Generate_Error_Cluster.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/AB_Generate_Error_Cluster.vi"/>
