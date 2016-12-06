@@ -1,1 +1,1 @@
-"E:\Program Files (x86)\Jenkins\workspace\MyTestJob\programmaticbuild2.vi" 
+start /wait "E:\Program Files\National Instruments\LabVIEW 2015\LabVIEW.exe" "E:\JenkinsServer\workspace\Test\programmaticbuild2.vi" 

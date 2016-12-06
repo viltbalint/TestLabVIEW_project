@@ -1,0 +1,1 @@
+call "E:\Git\TestLabVIEW_project\test.bat"
