@@ -1,0 +1,1 @@
+start "E:\Program Files\National Instruments\LabVIEW 2015\LabVIEW.exe" "E:\Program Files (x86)\Jenkins\workspace\MyTestJob\programmaticbuild2.vi" 
