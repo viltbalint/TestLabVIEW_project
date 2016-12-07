@@ -1,1 +1,0 @@
-start /wait "E:\Program Files\National Instruments\LabVIEW 2015\LabVIEW.exe" "E:\JenkinsServer\workspace\Test\programmaticbuild2.vi" 
