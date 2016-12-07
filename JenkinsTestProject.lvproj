@@ -77,21 +77,21 @@
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/E/JenkinsServer/workspace/Test/build</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Vilt/.jenkins/workspace/Test/build</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{81C51398-D7AE-462F-AEE0-EBE387521841}</Property>
 				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/E/JenkinsServer/workspace/Test/build/Application.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Vilt/.jenkins/workspace/Test/build/Application.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/E/JenkinsServer/workspace/Test/build/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/Vilt/.jenkins/workspace/Test/build/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{851069B1-97C3-47E6-B5B8-1672EDBD03DF}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{62EA9127-FFBA-4A38-9808-558F674F6053}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/TestClass.lvclass/testVi.vi</Property>
